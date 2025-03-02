@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Month 1 Deliverable"
-subtitle: "Initial planning of the Turtle Up Tracker app"
+subtitle: "Initial architecture and planning of the Turtle Up Tracker app"
 date: 2025-03-01 10:20:00
 background: "/img/posts/05.jpg"
 ---
@@ -93,11 +93,9 @@ background: "/img/posts/05.jpg"
 #### Features:
 
 - **End of Month 2 Features**:
-
   - SSO: Users can create an account or link with an available external account (Google, iCloud, etc.)
   - Shop Page: Handling secure transactions
   - Map Integration: Ability to display static data on the map page.
-
 - **Future Features**:
   - Biometric authentication
   - AI implementation
