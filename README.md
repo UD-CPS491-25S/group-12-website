@@ -1,4 +1,4 @@
-# Turtle Up Tracking
+# Turtle Up Tracker
 
 Welcome to Group-12's Public Repo Homepage!
 
