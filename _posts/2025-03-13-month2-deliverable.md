@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Month 1 Sprint"
+title: "Month 2 Sprint"
 subtitle: "Initial architecture and planning of the Turtle Up Tracker app"
-date: 2025-03-01 10:20:00
+date: 2025-03-13 10:20:00
 background: "/img/posts/05.jpg"
 ---
 
