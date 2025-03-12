@@ -6,6 +6,11 @@ date: 2025-03-10
 background: "/img/posts/06.jpg"
 ---
 
+## Current App Design
+![Current App Design](\group-12-website-jekyll\img\turtle-up-overview.png)
+
+<br>
+
 ## Month 2 Reflection
 Over the last month, we have made significant progress in pursuit of our goal to deliver an MVP to Dr. Corrine Brion and Turtle Up that is more than just the barebones product. Just as we hoped to, we hit the ground running this sprint and saw immediate progress through the implementations of user authentication, map interactivity, embedding of company resources, and creating a one-stop shop for the user seeking to contribute to Turtle Up.
 
@@ -33,7 +38,7 @@ Briefly wanted to mention collaboration over the last month with the other TuT d
 
 Having the two teams has given each the ability to go deeper into the application which will certainly make the finished proof of concept feature rich.
 
-
+<br>
 
 ## Month 3 Plan
 Looking ahead to the next month, the foundation has been set for us to build out and introduce some nuance and sophistication to our key features.
