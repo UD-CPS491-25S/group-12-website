@@ -33,7 +33,7 @@ Briefly wanted to mention collaboration over the last month with the other TuT d
 
 Having the two teams has given each the ability to go deeper into the application which will certainly make the finished proof of concept feature rich.
 
----
+
 
 ## Month 3 Plan
 Looking ahead to the next month, the foundation has been set for us to build out and introduce some nuance and sophistication to our key features.
