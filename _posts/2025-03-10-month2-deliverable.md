@@ -3,7 +3,7 @@ layout: post
 title: "Month 2 Sprint"
 subtitle: "Accomplishments, challenges, and planned improvements"
 date: 2025-03-10
-background: "/img/posts/06.jpg"
+background: '/img/turtle-up-bg.png'
 ---
 
 ## Current App Design

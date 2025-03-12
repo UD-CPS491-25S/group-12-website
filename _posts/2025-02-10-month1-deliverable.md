@@ -3,7 +3,7 @@ layout: post
 title: "Month 1 Sprint"
 subtitle: "Initial architecture and planning of the Turtle Up app"
 date: 2025-02-10 
-background: "/img/posts/05.jpg"
+background: '/img/turtle-up-bg.png'
 ---
 
 ## Table of Contents
