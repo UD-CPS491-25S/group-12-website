@@ -2,8 +2,8 @@ title: Group 12 - Turtle Up
 email:
 description: Capstone project for CPS 491 at the University of Dayton
 author: Michael Nguyen
-baseurl: "/group-12-website-jekyll"
-url: "https://nguyenm8.github.io"
+baseurl: "/group-12-website"
+url: "https://ud-cps491-25s.github.io"
 
 # Social Profiles
 twitter_username:
